@@ -1,0 +1,24 @@
+{
+  "712895685556699179": [
+    {
+      "amount": 5,
+      "category": "medicine",
+      "timestamp": "2025-05-13T10:37:06.641Z"
+    },
+    {
+      "amount": 80,
+      "category": "transfer",
+      "timestamp": "2025-05-13T10:37:38.792Z"
+    },
+    {
+      "amount": 67,
+      "category": "clothes",
+      "timestamp": "2025-05-13T10:37:56.818Z"
+    },
+    {
+      "amount": 26,
+      "category": "water",
+      "timestamp": "2025-05-13T10:38:08.898Z"
+    }
+  ]
+}

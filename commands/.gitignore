@@ -1,0 +1,14 @@
+# Ignore environment secrets
+.env
+
+# Ignore installed node packages (they can be reinstalled)
+node_modules/
+
+# Ignore OS-specific junk
+.DS_Store
+
+# Ignore user expense data
+data/expenses.json
+
+# Ignore log files
+*.log
