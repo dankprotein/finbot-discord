@@ -47,6 +47,6 @@ Finflow V8/
 ## 🛠 Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/finbot.git
+git clone https://github.com/dankprptein/finbot-discord.git
 cd finbot
 npm install
