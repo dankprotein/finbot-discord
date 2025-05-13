@@ -48,5 +48,5 @@ Finflow V8/
 
 ```bash
 git clone https://github.com/dankprptein/finbot-discord.git
-cd finbot
+cd finbot-discord
 npm install
